@@ -12,16 +12,16 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "Super Mario Landing Page",
-    description: "Landningssida för en fiktiv Super Mario-film, framtagen i kursen Grafiska verktyg.",
+    description: "Landningssida för en fiktiv Super Mario Galaxy-film, designad i Grafiska verktyg.",
     image: "/images/supermario.jpg",
-    tags: ["HTML", "CSS", "Design"],
+    tags: ["HTML", "CSS", "Design", "Grupparbete", "Figma"],
     repo: "https://github.com/aldacat-fed/super-mario-landing-movie-page",
     demo: "https://medieinstitutet.github.io/fed25d-grafiska-verktyg-cmyk/",
   },
   {
     id: 2,
     title: "Stranger Woods",
-    description: "Spel byggt i grupp med JavaScript. Jag arbetade med spelmekanik och gränssnitt.",
+    description: "Stranger Things-inspirerat pusselspel med inloggning och highscore, byggt i grupp.",
     image: "/images/strangerwoods.jpg",
     tags: ["JavaScript", "HTML", "CSS", "Grupparbete"],
     repo: "https://github.com/aldacat-fed/stranger-woods-game",
@@ -30,9 +30,9 @@ export const projects: Project[] = [
   {
     id: 3,
     title: "Book App",
-    description: "App för att bläddra bland och hålla koll på böcker.",
+    description: "Bokbibliotek, The Reading Room, med bokkort, genrer och inloggning för admin, att hålla koll på böckerna. Byggt i grupp.",
     image: "/images/bookapp.jpg",
-    tags: ["JavaScript", "HTML", "CSS"],
+    tags: ["JavaScript", "HTML", "CSS", "Grupparbete"],
     repo: "https://github.com/aldacat-fed/Book-app",
   },
   {
@@ -47,7 +47,7 @@ export const projects: Project[] = [
   {
     id: 5,
     title: "Nordic Haven",
-    description: "Responsiv webbsida med interaktiva element i JavaScript.",
+    description: "Webbshop med varukorg, kategorifilter och sortering av produkter.",
     image: "/images/nordichaven.jpg",
     tags: ["JavaScript", "HTML", "CSS", "Design"],
     repo: "https://github.com/aldacat-fed/inl-1-js-webbsida-nordic-haven",
@@ -58,7 +58,7 @@ export const projects: Project[] = [
     title: "Min portfolio",
     description: "Den här sidan: en React-SPA med filtrering, formulär och animationer.",
     image: "/images/portfolio.jpg",
-    tags: ["React", "TypeScript", "Design", "Animation"],
-    repo: "https://github.com/aldacat-fed/portfolio",
+    tags: ["React", "TypeScript", "Design", "Animation", "Figma"],
+    repo: "https://github.com/aldacat-fed/portfolio", 
   },
 ];
