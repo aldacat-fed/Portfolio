@@ -34,6 +34,7 @@ export const projects: Project[] = [
     image: "/images/bookapp.jpg",
     tags: ["JavaScript", "HTML", "CSS", "Grupparbete"],
     repo: "https://github.com/aldacat-fed/Book-app",
+    demo: "https://book-app-sepia-nine.vercel.app/book-list.html",
   },
   {
     id: 4,
@@ -60,5 +61,6 @@ export const projects: Project[] = [
     image: "/images/portfolio.jpg",
     tags: ["React", "TypeScript", "Design", "Animation", "Figma"],
     repo: "https://github.com/aldacat-fed/portfolio", 
+    demo: "https://portfolio-theta-dun.vercel.app/"
   },
 ];
